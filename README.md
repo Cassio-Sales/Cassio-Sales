@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cassio-Sales
-- 👀 I’m  a Self-taught person interested in becoming a Junior developer
+- 👀 I’m  a Self-taught person studyng Harvard CS50 and Free Code Camp. Interested in becoming a Junior developer.
 - 🌱 I’m currently learning css, html, java script, react native.
 - 💞️ I’m looking to collaborate in front end, back end Projects.
 - 📫 How to reach me cassiososales@gmail.com
