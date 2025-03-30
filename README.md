@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cassio-Sales
-- 👀 I’m  a Self-taught person studyng to become a Junior Developer. 
-- 🌱 I’m currently learning html, css, java script, react native.
+- 👀 I’m  a Self-taught person studyng to become developer. 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate in front end, back end Projects.
 
 
