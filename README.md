@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cassio-Sales
-- 👀 I’m  a Self-taught person studyng to become developer. 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate in front end, back end Projects.
+- 
 
 
 <!---
