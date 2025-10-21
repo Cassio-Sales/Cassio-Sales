@@ -1,6 +1,6 @@
 Hi I'm Cassio, 
 
-- I'm a Frontend Developer passionate about creating responsive applications. Currently working as a freelancer, I use JavaScript as my main programming language and modern technologies and frameworks like React, and Tailwind CSS, Nextjs to build visually appealing solutions that adapt seamlessly across devices.
+- I'm a Frontend Developer passionate about creating responsive applications. Currently working as a freelancer, I use JavaScript as my main programming language and modern technologies and frameworks like React, tailwind CSS, Nextjs to build visually appealing solutions that adapt seamlessly across devices.
 
  - I’m deeply interested in technology and love turning visual designs into functional interfaces. 
 
