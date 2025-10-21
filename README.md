@@ -1,4 +1,6 @@
-`- I'm a Frontend Developer passionate about creating responsive applications. Currently working as a freelancer, I use modern technologies like JavaScript, React, and Tailwind CSS to build visually appealing web solutions that adapt seamlessly across devices.
+Hi I'm Cassio, 
+
+- I'm a Frontend Developer passionate about creating responsive applications. Currently working as a freelancer, I use modern technologies like JavaScript, React, and Tailwind CSS to build visually appealing web solutions that adapt seamlessly across devices.
 
  - I’m deeply interested in technology and love turning visual designs into functional interfaces. 
 
